@@ -1,0 +1,21 @@
+{
+  "name": "eve-simple-route",
+  "version": "0.0.1",
+  "description": "A simple route planner module for the game EVE Online.",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "babel-cli": "^6.16.0",
+    "babel-preset-es2015": "^6.16.0"
+  },
+  "scripts": {
+    "build": "babel src -d ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "www.github.com/gsumpster/eve-simple-route"
+  },
+  "author": "George Sumpster",
+  "license": "MIT"
+}
