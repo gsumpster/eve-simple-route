@@ -16,6 +16,6 @@
     "type": "git",
     "url": "www.github.com/gsumpster/eve-simple-route"
   },
-  "author": "George Sumpster",
+  "author": "George Sumpster <gsumpster@gmail.com>",
   "license": "MIT"
 }

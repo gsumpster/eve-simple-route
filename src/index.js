@@ -32,12 +32,11 @@ function find_path(G, A, B, M=50000){
 
 
 
-export default function(to, from, secure) {
-
+module.exports = function(to, from) {
 	var route = [];
 	var jumps = 0;
 
 	route = find_path(data, to, from);
 	jumps = route.length;
 	return {jumps, route};
-}
+};
