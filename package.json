@@ -1,6 +1,6 @@
 {
   "name": "eve-simple-route",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A simple route planner module for the game EVE Online.",
   "main": "index.js",
   "dependencies": {

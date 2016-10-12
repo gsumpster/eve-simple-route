@@ -1,6 +1,7 @@
 # eve-simple-route
 
-A simple route planner module for the game EVE Online.
+A simple route planner module for the game EVE Online. 
+Reimplementation of https://github.com/fuzzysteve/Eve-Route-Plan
 
 ### Installation
 `npm install eve-simple-route --save`
@@ -16,4 +17,4 @@ console.log(eve_router(30000142, 30002187)); // Jita to Amarr
 ### Development
 1. `npm install`
 2. `npm run build`
-3. :tada: 
+3. :tada:

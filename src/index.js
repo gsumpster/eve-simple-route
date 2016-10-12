@@ -13,9 +13,9 @@ function find_path(G, A, B, M=50000){
 			if(Y == B){
 
 				P.push(B);
-				P.push(X);
+				P.push(parseInt(X));
 				while (V[X] != A) {
-					P.push(V[X]);
+					P.push(parseInt(V[X]));
 					X = V[X];
 				}
 				P.push(A);
